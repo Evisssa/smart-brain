@@ -1,0 +1,28 @@
+.Tilt{
+    background-color: rgb(245, 248, 249);
+   /* background-image: linear-gradient( 173.1deg,  rgba(226,66,249,0.94) 10.2%, rgba(79,147,249,1) 77.3% );*/
+    
+}
+
+
+.dot {
+    height: 130px;
+    width: 130px;
+    border: 2px solid white;
+    background-color: transparent;
+    border-radius: 50%;
+    justify-content: center;
+    
+
+    
+  }
+
+  .dot img
+  {
+    width :100%;
+
+  }
+
+.br-100{
+  border-radius: 50%;
+}

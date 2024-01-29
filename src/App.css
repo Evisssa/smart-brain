@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient( 173.1deg, rgba(8, 0, 97, 0.94) 10.2%, rgba(63, 54, 164, 0.94) 77.3% );
+  min-height: 100vh;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
